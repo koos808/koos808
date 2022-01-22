@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ### ✨Jinmo Gu✨
-- MS program at Yonsei University (Undergraduate major: Statistics)
+🤔 MS program at Yonsei University (Undergraduate major: Statistics)
 
 🔭 I’m currently working on Korea Credit Bureau(KCB) <br>
-- 🌱Research Interests : Deep Learning(CNN, Multi-modal, RL, NAS), Financial Data Analysis, Algorithmic Trading, Credit Scoring <br>
+🌱Research Interests : Deep Learning(CNN, Multi-modal, RL, NAS), Financial Data Analysis, Algorithmic Trading, Credit Scoring <br>
 👯Github : https://github.com/koos808 <br>
-😄🤔Blog : https://koos808.tistory.com/ <br>
-📫💬How to reach me: wlsah1025@naver.com, koos808@yonsei.ac.kr <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jinmo-gu-340ab7184/)](https://www.linkedin.com/in/jinmo-gu-340ab7184/) <br>
+😄Blog : https://koos808.tistory.com/ <br>
+💬How to reach me: wlsah1025@naver.com, koos808@yonsei.ac.kr <br>
+📫[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jinmo-gu-340ab7184/)](https://www.linkedin.com/in/jinmo-gu-340ab7184/) <br>
 
 <br>
 
