@@ -8,6 +8,8 @@
 👯Github : https://github.com/koos808 <br>
 😄🤔Blog : https://koos808.tistory.com/ <br>
 📫💬How to reach me: wlsah1025@naver.com, koos808@yonsei.ac.kr <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jinmo-gu-340ab7184/)](https://www.linkedin.com/in/jinmo-gu-340ab7184/) <br>
+
 <br>
 
 ⚡Publication:
@@ -16,11 +18,21 @@
 
 <br>
 
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <a href="https://www.github.com/koos808/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
+  <a href="https://www.github.com/koos808/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://www.github.com/koos808/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+  <a href="https://www.github.com/koos808/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+</p>
+
+<br>
+
 <!-- 프로필 지정 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=koos808)
 
 <!-- 테마 지정 -->
-
 ![koos808's github stats](https://github-readme-stats.vercel.app/api?username=koos808&show_icons=true&theme=algolia)
 <br>
 [![koos808's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koos808&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/koos808)
