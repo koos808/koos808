@@ -36,3 +36,7 @@
 ![koos808's github stats](https://github-readme-stats.vercel.app/api?username=koos808&show_icons=true&theme=algolia)
 <br>
 [![koos808's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koos808&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/koos808)
+
+<!-- stat hit -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+                                                        
