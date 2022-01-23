@@ -42,4 +42,4 @@
 
 
 <!-- backjun solve card -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koos808)](https://solved.ac/koos808)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsah1025)](https://solved.ac/wlsah1025)
